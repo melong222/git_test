@@ -40,5 +40,7 @@ public class RentBook {
     public void change (BookStatus status){
         book.changeStatus(status);
     }
+    // 주석테스느
+    // 주석테스트2
 
 }
